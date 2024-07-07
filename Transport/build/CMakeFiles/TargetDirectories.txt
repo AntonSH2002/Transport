@@ -1,0 +1,3 @@
+/mnt/c/Users/Anton/source/repos/Transport/Transport/build/CMakeFiles/Transport.dir
+/mnt/c/Users/Anton/source/repos/Transport/Transport/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Anton/source/repos/Transport/Transport/build/CMakeFiles/rebuild_cache.dir
